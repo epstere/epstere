@@ -18,11 +18,11 @@
 
 ###
 
-<h2 align="left">I code and work with</h2>
+<h2 align="center">I code and work with</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
@@ -68,8 +68,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/epstere/epstere/output/snake.svg" alt="Snake animation" />
-
-###
