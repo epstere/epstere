@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning React Native<br>
 - 🎯 Goals: Build my own or work for a big company and travel the world...<br>
 - 🔭 I’m currently working on a website and store for former soldiers<br>
-- 👯 I’m looking to collaborate on ideas and projects for human wealth<br>
+- 👯 I’m looking to collaborate on ideas and projects for human welfare<br>
 - 🤔 I’m looking for help with personal/professional growth<br>
 - 🎲 Fun fact: I'm a 90yo locked on a 30yo. Old is cool!</p>
 
